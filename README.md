@@ -1,4 +1,5 @@
-First, I connected the database with the android studio project.
+1. First, I connected the database with the android studio project.
+
 Import the Json file into the database.
 Add a ValueEventListner to retrieve the data.
 Create an array list to store the retrieved data.
