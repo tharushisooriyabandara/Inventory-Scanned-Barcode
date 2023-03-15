@@ -1,0 +1,1 @@
+# Inventory-Scanned-Barcode
