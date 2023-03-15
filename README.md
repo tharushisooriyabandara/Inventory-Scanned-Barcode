@@ -1,8 +1,8 @@
 1. First, I connected the database with the android studio project.
 
-2. Get references to the "inventory" and "scanned" nodes in Firebase.
+2. Import the Json file into the database.
 
-3. Import the Json file into the database.
+3. Get references to the "inventory" and "scanned" nodes in Firebase.
 
 4. Add a ValueEventListner to retrieve the data.
 
