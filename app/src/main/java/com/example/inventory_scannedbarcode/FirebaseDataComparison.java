@@ -11,7 +11,7 @@ import java.util.List;
 
 public class FirebaseDataComparison {
 
-    public static void main(String[] args) {
+    public static void compare() {
         // Get references to the "data" and "comparison" nodes in Firebase
         DatabaseReference dataRef = FirebaseDatabase.getInstance().getReference("Inventory");
         DatabaseReference comparisonRef = FirebaseDatabase.getInstance().getReference("Scanned_Barcode1");

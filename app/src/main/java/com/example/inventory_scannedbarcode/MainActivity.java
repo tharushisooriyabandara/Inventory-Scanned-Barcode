@@ -4,16 +4,17 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class MainActivity<FirebaseDataComparison> extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
-    private FirebaseDataComparison firebaseDataComparison;
+     FirebaseDataComparison firebaseDataComparison;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+//
 
-//        firebaseDataComparison = new FirebaseDataComparison();
-//        firebaseDataComparison.compareData();
+        firebaseDataComparison = new FirebaseDataComparison();
+        firebaseDataComparison.compare();
     }
 }
