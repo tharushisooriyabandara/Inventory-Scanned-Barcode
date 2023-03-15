@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880035248644",
+    "project_id": "inventory-scanned",
+    "storage_bucket": "inventory-scanned.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880035248644:android:e56e5138caf7d9e0021351",
+        "android_client_info": {
+          "package_name": "com.example.inventory_scannedbarcode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880035248644-cr3tmgokbjajepctus6kim3m7hsevh57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeP3Zjtjpr4RNS_w93JZcGJGIVyBed7Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880035248644-cr3tmgokbjajepctus6kim3m7hsevh57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
